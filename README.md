@@ -1,6 +1,10 @@
 ## Hi there 👋
-![](https://i.imgur.com/CZmYuki.gif)
+<p align="center">
+  <img src="https://i.imgur.com/CZmYuki.gif" width="220" alt="" />
+</p>
+
 <!--
+![](https://i.imgur.com/CZmYuki.gif)
 **tryproxy/tryproxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
