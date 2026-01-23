@@ -1,10 +1,17 @@
 ## Hi there 👋
-<div style="display:flex;">
-  <img src="https://i.imgur.com/CZmYuki.gif" style="width:33.33%; height:auto;" alt="gif 1" />
-  <img src="https://i.imgur.com/CZmYuki.gif" style="width:33.33%; height:auto;" alt="gif 2" />
-  <img src="https://i.imgur.com/CZmYuki.gif" style="width:33.33%; height:auto;" alt="gif 3" />
-</div>
-
+<table>
+  <tr>
+    <td width="33%">
+      <img src="https://i.imgur.com/CZmYuki.gif" width="100%" alt="gif 1" />
+    </td>
+    <td width="33%">
+      <img src="https://i.imgur.com/CZmYuki.gif" width="100%" alt="gif 2" />
+    </td>
+    <td width="33%">
+      <img src="https://i.imgur.com/CZmYuki.gif" width="100%" alt="gif 3" />
+    </td>
+  </tr>
+</table>
 <!--
 ![](https://i.imgur.com/CZmYuki.gif)
 **tryproxy/tryproxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
