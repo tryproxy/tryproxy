@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div style="display:flex; justify-content:space-between; gap:8px;">
+<div style="display:flex;">
   <img src="https://i.imgur.com/CZmYuki.gif" style="width:33.33%; height:auto;" alt="gif 1" />
   <img src="https://i.imgur.com/CZmYuki.gif" style="width:33.33%; height:auto;" alt="gif 2" />
   <img src="https://i.imgur.com/CZmYuki.gif" style="width:33.33%; height:auto;" alt="gif 3" />
