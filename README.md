@@ -1,4 +1,4 @@
-<table>
+<!-- <table>
   <tr>
     <td width="33%">
       <img src="https://i.imgur.com/CZmYuki.gif" width="100%" alt="gif 1" />
@@ -10,9 +10,8 @@
       <img src="https://i.imgur.com/CZmYuki.gif" width="100%" alt="gif 3" />
     </td>
   </tr>
-</table>
+</table> -->
 <img src="https://komarev.com/ghpvc/?username=tryproxy&style=pixel" alt="" />
-
 <!--
 ![](https://i.imgur.com/CZmYuki.gif)
 **tryproxy/tryproxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
