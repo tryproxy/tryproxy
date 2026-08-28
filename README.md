@@ -11,8 +11,8 @@
     </td>
   </tr>
 </table> -->
-<!-- <img src="https://komarev.com/ghpvc/?username=tryproxy&style=pixel" alt="" /> -->
-![Profile views](https://komarev.com/ghpvc/?username=tryproxy&label=PROFILE+VIEWS&color=8b0000&style=flat-square&abbreviated=true)
+<img src="https://komarev.com/ghpvc/?username=tryproxy&style=pixel" alt="" />
+Hi there. I do what makes sense. 🫡
 <!--
 ![](https://i.imgur.com/CZmYuki.gif)
 **tryproxy/tryproxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
