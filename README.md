@@ -12,6 +12,6 @@
   </tr>
 </table> -->
 <p align="center">
-Hi there. I'm somewhere between UI and infrastructure. 🫡
+Hi there 🫡
   <img src="https://komarev.com/ghpvc/?username=tryproxy&style=pixel" alt="" />
 </p>
