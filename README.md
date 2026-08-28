@@ -11,8 +11,10 @@
     </td>
   </tr>
 </table> -->
-<img src="https://komarev.com/ghpvc/?username=tryproxy&style=pixel" alt="" />
+<p align="center">
 Hi there. I do what makes sense. 🫡
+  <img src="https://komarev.com/ghpvc/?username=tryproxy&style=pixel" alt="" />
+</p>
 <!--
 ![](https://i.imgur.com/CZmYuki.gif)
 **tryproxy/tryproxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
