@@ -12,6 +12,6 @@
   </tr>
 </table> -->
 <p align="center">
-Hi there 🫡
+01001000 01101001 00100000 01110100 01101000 01100101 01110010 01100101 00100000 11110000 10011111 10101011 10100001
   <img src="https://komarev.com/ghpvc/?username=tryproxy&style=pixel" alt="" />
 </p>
